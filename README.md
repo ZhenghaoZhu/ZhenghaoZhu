@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi! 👋
+I'm Zhenghao (Kevin) Zhu, a senior studying Computer Science and Applied Mathematics at Stony Brook University. Right now I'm interning at Microsoft in the Azure Infrastructure Division designing telemetry applications for BMC (Baseboard Management Controller). 
 
+[Personal Website w/ Resume](http://zhenghaozhu.github.io/)
+
+[![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhenghaoZhu)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ZhenghaoZhu/ZhenghaoZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
