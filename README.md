@@ -3,7 +3,7 @@ I'm Zhenghao (Kevin) Zhu, a senior studying Computer Science and Applied Mathema
 
 [Personal Website w/ Resume](http://zhenghaozhu.github.io/)
 
-[![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhenghaoZhu&count_private=true&hide=stars&title_color=ffffff&text_color=ffffff&icon_color=000000&bg_color=90,7474BF,348ac7)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhenghaoZhu&count_private=true&hide=stars&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=90,7474BF,348ac7&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ZhenghaoZhu/ZhenghaoZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
