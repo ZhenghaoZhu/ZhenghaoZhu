@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm Zhenghao (Kevin) Zhu, a senior studying Computer Science and Applied Mathematics at Stony Brook University. Right now I'm interning at Microsoft in the Azure Infrastructure Division designing telemetry applications for BMC (Baseboard Management Controller). 
+If you would like, take a look at some of my projects!
 
 [Personal Website w/ Resume](http://zhenghaozhu.github.io/)
 
